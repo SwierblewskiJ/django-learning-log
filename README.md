@@ -1,6 +1,6 @@
 # Learning Log
 
-Learning Log is a Django-based web application that allows users to track their learning progress by creating topics and entries.
+Learning Log is a project written in Polish based on the Python Crash Course book - expanded with its own elements. Django, SQLite and a logging system were used.
 
 ## Features
 - User authentication (registration, login, logout).
