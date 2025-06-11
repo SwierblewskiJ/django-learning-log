@@ -1,5 +1,3 @@
-# django-learning-log
-
 # Learning Log
 
 Learning Log is a Django-based web application that allows users to track their learning progress by creating topics and entries.
